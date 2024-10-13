@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\private\\actor\\triggeractor\\ppdiscretetrigger.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\duarte\\desktop\\testproject\\intermediate\\build\\win64\\x64\\testprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dmvpuzzlepieces\\definitions.dmvpuzzlepieces.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\public\\actor\\triggeractor\\ppdiscretetrigger.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\public\\actor\\triggeractor\\pptriggeractor.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\public\\actor\\ppactor.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\public\\interface\\ppinterface.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\unrealeditor\\inc\\dmvpuzzlepieces\\uht\\ppinterface.generated.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\unrealeditor\\inc\\dmvpuzzlepieces\\uht\\ppactor.generated.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\unrealeditor\\inc\\dmvpuzzlepieces\\uht\\pptriggeractor.generated.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\unrealeditor\\inc\\dmvpuzzlepieces\\uht\\ppdiscretetrigger.generated.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\cassert",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\assert.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

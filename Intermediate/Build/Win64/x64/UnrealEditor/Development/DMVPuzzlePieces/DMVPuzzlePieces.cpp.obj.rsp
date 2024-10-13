@@ -1,11 +1,11 @@
-"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMVPuzzlePieces\Source\DMVPuzzlePieces\Private\DMVPuzzlePieces.cpp"
-/FI"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMVPuzzlePieces\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMVPuzzlePieces\Definitions.DMVPuzzlePieces.h"
-/Yu"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\Duarte\Desktop\FPTemplate\Intermediate\Build\Win64\x64\FPTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMVPuzzlePieces\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMVPuzzlePieces\DMVPuzzlePieces.cpp.obj"
-/sourceDependencies "C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMVPuzzlePieces\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMVPuzzlePieces\DMVPuzzlePieces.cpp.dep.json"
-@"C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMVPuzzlePieces\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMVPuzzlePieces\DMVPuzzlePieces.Shared.rsp"
+"C:\Users\Duarte\Desktop\TestProject\Plugins\DMVPuzzlePieces\Source\DMVPuzzlePieces\Private\DMVPuzzlePieces.cpp"
+/FI"C:\Users\Duarte\Desktop\TestProject\Intermediate\Build\Win64\x64\TestProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\Duarte\Desktop\TestProject\Plugins\DMVPuzzlePieces\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMVPuzzlePieces\Definitions.DMVPuzzlePieces.h"
+/Yu"C:\Users\Duarte\Desktop\TestProject\Intermediate\Build\Win64\x64\TestProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\Duarte\Desktop\TestProject\Intermediate\Build\Win64\x64\TestProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\Duarte\Desktop\TestProject\Plugins\DMVPuzzlePieces\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMVPuzzlePieces\DMVPuzzlePieces.cpp.obj"
+/sourceDependencies "C:\Users\Duarte\Desktop\TestProject\Plugins\DMVPuzzlePieces\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMVPuzzlePieces\DMVPuzzlePieces.cpp.dep.json"
+@"C:\Users\Duarte\Desktop\TestProject\Plugins\DMVPuzzlePieces\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMVPuzzlePieces\DMVPuzzlePieces.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

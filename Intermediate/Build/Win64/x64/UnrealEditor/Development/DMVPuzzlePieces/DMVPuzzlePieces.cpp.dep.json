@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\duarte\\desktop\\fptemplate\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\private\\dmvpuzzlepieces.cpp",
+        "Source": "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\private\\dmvpuzzlepieces.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\duarte\\desktop\\fptemplate\\intermediate\\build\\win64\\x64\\fptemplateeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\duarte\\desktop\\testproject\\intermediate\\build\\win64\\x64\\testprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\duarte\\desktop\\fptemplate\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dmvpuzzlepieces\\definitions.dmvpuzzlepieces.h",
-            "c:\\users\\duarte\\desktop\\fptemplate\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\public\\dmvpuzzlepieces.h"
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dmvpuzzlepieces\\definitions.dmvpuzzlepieces.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\public\\dmvpuzzlepieces.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

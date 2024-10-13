@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\private\\actor\\triggeractor\\ppcollisiontrigger.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\duarte\\desktop\\testproject\\intermediate\\build\\win64\\x64\\testprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dmvpuzzlepieces\\definitions.dmvpuzzlepieces.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\public\\actor\\triggeractor\\ppcollisiontrigger.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\public\\actor\\triggeractor\\pptriggeractor.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\public\\actor\\ppactor.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\source\\dmvpuzzlepieces\\public\\interface\\ppinterface.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\unrealeditor\\inc\\dmvpuzzlepieces\\uht\\ppinterface.generated.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\unrealeditor\\inc\\dmvpuzzlepieces\\uht\\ppactor.generated.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\unrealeditor\\inc\\dmvpuzzlepieces\\uht\\pptriggeractor.generated.h",
+            "c:\\users\\duarte\\desktop\\testproject\\plugins\\dmvpuzzlepieces\\intermediate\\build\\win64\\unrealeditor\\inc\\dmvpuzzlepieces\\uht\\ppcollisiontrigger.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

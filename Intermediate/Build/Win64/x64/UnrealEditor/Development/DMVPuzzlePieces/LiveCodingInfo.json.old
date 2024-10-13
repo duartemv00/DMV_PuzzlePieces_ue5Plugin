@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DMVPuzzlePieces.cpp.obj": [
+			"DMVPuzzlePieces.init.gen.cpp.obj",
+			"PPActor.gen.cpp.obj",
+			"PPCollisionTrigger.gen.cpp.obj",
+			"PPContinousTrigger.gen.cpp.obj",
+			"PPDiscreteTrigger.gen.cpp.obj",
+			"PPInterface.gen.cpp.obj",
+			"PPSingleStateTrigger.gen.cpp.obj",
+			"PPToggleTrigger.gen.cpp.obj",
+			"PPTriggerActor.gen.cpp.obj",
+			"PPActor.cpp.obj",
+			"PPCollisionTrigger.cpp.obj",
+			"PPContinousTrigger.cpp.obj",
+			"PPDiscreteTrigger.cpp.obj",
+			"PPSingleStateTrigger.cpp.obj",
+			"PPToggleTrigger.cpp.obj",
+			"PPTriggerActor.cpp.obj",
+			"DMVPuzzlePieces.cpp.obj",
+			"PPInterface.cpp.obj"
+		]
+	}
+}

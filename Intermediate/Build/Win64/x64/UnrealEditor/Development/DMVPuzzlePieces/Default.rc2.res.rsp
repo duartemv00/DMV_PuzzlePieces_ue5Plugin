@@ -79,6 +79,6 @@
 /DORIGINAL_FILE_NAME="UnrealEditor-DMVPuzzlePieces.dll"
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
-/DPROJECT_PRODUCT_IDENTIFIER=FPTemplate
-/fo "C:\Users\Duarte\Desktop\FPTemplate\Plugins\DMVPuzzlePieces\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMVPuzzlePieces\Default.rc2.res"
+/DPROJECT_PRODUCT_IDENTIFIER=TestProject
+/fo "C:\Users\Duarte\Desktop\TestProject\Plugins\DMVPuzzlePieces\Intermediate\Build\Win64\x64\UnrealEditor\Development\DMVPuzzlePieces\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
